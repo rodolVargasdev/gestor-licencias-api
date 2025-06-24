@@ -29,7 +29,7 @@ gestor-licencias-api/
 ### Backend (API)
 - **Framework**: Node.js + Express
 - **Base de Datos**: PostgreSQL con TypeORM
-- **Autenticación**: JWT
+- **Autenticación**: JWT (No implementado)
 - **Validación**: Express-validator
 - **Documentación**: Postman Collection incluida
 - **Reportes**: Generación de PDF y Excel
@@ -40,7 +40,7 @@ gestor-licencias-api/
 - **State Management**: Redux Toolkit
 - **Routing**: React Router DOM
 - **Build Tool**: Vite
-- **Charts**: Recharts para gráficos
+- **Charts**: Recharts para gráficos (No implementado)
 
 ## Módulos del Sistema
 
